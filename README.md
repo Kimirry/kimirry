@@ -29,38 +29,28 @@
 
 ---
 
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimirry&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimirry&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimirry&layout=compact&theme=radical" width="50%" />
-</p>
-
----
-
 ### 📌 Featured Projects
 
 - 🔗 **Portfolio Website**  
   https://kimirry.github.io/Portfolio/  
   A responsive personal website showcasing my work and skills.
 
-- 🔧 **System Scripts & Tools (Coming Soon)**  
-  I'm working on automation tools, small APIs, and Linux-based system scripts.
+- 🔗 **WiFi Billing System**  
+  *https://senetwork.hopto.org* — a system to manage WiFi access, billing, and user accounts. Built using Node.js, Express, MySQL, and Docker. Includes authentication, dashboard, and reporting features.
+
+
+- 🔧 **Match Prediction System (Coming Soon)**  
+  An upcoming project to predict sports match outcomes using machine learning. Will include data analysis, predictive modeling, and a web interface for users to check predictions.
+
 
 ---
 
 ### 🤝 Let’s Connect
 
-- 💼 LinkedIn — *coming soon*  
-- 🧠 Twitter — *coming soon*  
-- 🌐 Website — https://kimirry.github.io/Portfolio/
+- 💼 LinkedIn — *coming soon*   
+- 🌐 portfolio — https://kimirry.github.io/Portfolio/
 
 ---
 
 > “Strive for progress, not perfection.” 🚀  
 > I love creating systems and building solutions that make work easier.
-
