@@ -47,7 +47,7 @@
 
 ### 🤝 Let’s Connect
 
-- 💼 LinkedIn — *coming soon*   
+- 💼 LinkedIn — https://www.linkedin.com/in/martin-ndichu-63450a371/   
 - 🌐 portfolio — https://kimirry.github.io/Portfolio/
 
 ---
